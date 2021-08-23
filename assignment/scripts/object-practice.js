@@ -36,7 +36,6 @@ console.log(me.favThreeFoods[0])//first
 console.log(me.favThreeFoods[2])// last- feels like there is a more formula based way to get this?
 
 
-
 /* 4. Change a property of an existing object.
   - Console.log your current shoe count.
   - Guess what?! You just got a new pair of shoes!!!
